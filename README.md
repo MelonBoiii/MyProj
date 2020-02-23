@@ -1,1 +1,1 @@
-# MyProj
+# Galaxy
